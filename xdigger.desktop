@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=XDigger
+Comment=A Boulder Dash clone that was ported from KC85 to Unix/X11
+Exec=xdigger
+Icon=xdigger
+Terminal=false
+Categories=Game;ArcadeGame;
